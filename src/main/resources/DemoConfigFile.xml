@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<!-- For simple factory pattern -->
+    <chartType>histogram</chartType>
+    <!-- For Factory Method Pattern -->
+    <className>cn.xuebing.pattern.factory.factorymethod.DatabaseLoggerFactory</className>
+</config>
